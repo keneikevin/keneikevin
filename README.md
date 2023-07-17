@@ -33,7 +33,7 @@ I am Kibet, an Android Developer based in Nairobi Kenya.
   </tr>   
 </table>
 
-- 🔭 I’m currently working on Tawi
+
 - 🌱 I’m currently learning Kotlin/Java
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with real world problems.
